@@ -1,0 +1,1 @@
+My assignments for the courses in the Coursera [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python).
