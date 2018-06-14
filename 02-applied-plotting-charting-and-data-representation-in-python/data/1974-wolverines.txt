@@ -1,0 +1,11 @@
+	Iowa	September 14, 1974	Ann Arbor, MI	W 24-7
+	Colorado	September 21, 1974	Ann Arbor, MI	W 31-0
+	Navy	September 28, 1974	Ann Arbor, MI	W 52-0
+	Stanford	October 5, 1974	Stanford, CA	W 27-16
+	Michigan State	October 12, 1974	Ann Arbor, MI	W 21-7
+	Wisconsin	October 19, 1974	Madison, WI	W 24-20
+	Minnesota	October 26, 1974	Ann Arbor, MI	W 49-0
+	Indiana	November 2, 1974	Bloomington, IN	W 21-7
+	Illinois	November 9, 1974	Champaign, IL	W 14-6
+	Purdue	November 16, 1974	Ann Arbor, MI	W 51-0
+	Ohio State	November 23, 1974	Columbus, OH	L 10-12

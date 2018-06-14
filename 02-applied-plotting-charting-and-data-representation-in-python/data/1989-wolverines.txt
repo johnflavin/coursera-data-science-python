@@ -1,0 +1,12 @@
+	Notre Dame	September 16, 1989	Ann Arbor, MI	L 19-24
+	UCLA	September 23, 1989	Los Angeles, CA	W 24-23
+	Maryland	September 30, 1989	Ann Arbor, MI	W 41-21
+	Wisconsin	October 7, 1989	Ann Arbor, MI	W 24-0
+	Michigan State	October 14, 1989	East Lansing, MI	W 10-7
+	Iowa	October 21, 1989	Iowa City, IA	W 26-12
+	Indiana	October 28, 1989	Ann Arbor, MI	W 38-10
+	Purdue	November 4, 1989	Ann Arbor, MI	W 42-27
+	Illinois	November 11, 1989	Champaign, IL	W 24-10
+	Minnesota	November 18, 1989	Minneapolis, MN	W 49-15
+	Ohio State	November 25, 1989	Ann Arbor, MI	W 28-18
+	USC	January 1, 1990	Pasadena, CA	L 10-17

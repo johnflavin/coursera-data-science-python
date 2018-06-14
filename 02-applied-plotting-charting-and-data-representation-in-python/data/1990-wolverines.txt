@@ -1,0 +1,12 @@
+	Notre Dame	September 15, 1990	South Bend, IN	L 24-28
+	UCLA	September 22, 1990	Ann Arbor, MI	W 38-15
+	Maryland	September 29, 1990	Ann Arbor, MI	W 45-17
+	Wisconsin	October 6, 1990	Madison, WI	W 41-3
+	Michigan State	October 13, 1990	Ann Arbor, MI	L 27-28
+	Iowa	October 20, 1990	Ann Arbor, MI	L 23-24
+	Indiana	October 27, 1990	Bloomington, IN	W 45-19
+	Purdue	November 3, 1990	West Lafayette, IN	W 38-13
+	Illinois	November 10, 1990	Ann Arbor, MI	W 22-17
+	Minnesota	November 17, 1990	Ann Arbor, MI	W 35-18
+	Ohio State	November 24, 1990	Columbus, OH	W 16-13
+	Mississippi	January 1, 1991	Jacksonville, FL	W 35-3

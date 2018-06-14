@@ -1,0 +1,12 @@
+	Northwestern	September 11, 1971	Evanston, IL	W 21-6
+	Virginia	September 18, 1971	Ann Arbor, MI	W 56-0
+	UCLA	September 25, 1971	Ann Arbor, MI	W 38-0
+	Navy	October 2, 1971	Ann Arbor, MI	W 46-0
+	Michigan State	October 9, 1971	East Lansing, MI	W 24-13
+	Illinois	October 16, 1971	Ann Arbor, MI	W 35-6
+	Minnesota	October 23, 1971	Minneapolis, MN	W 35-7
+	Indiana	October 30, 1971	Ann Arbor, MI	W 61-7
+	Iowa	November 6, 1971	Ann Arbor, MI	W 63-7
+	Purdue	November 13, 1971	West Lafayette, IN	W 20-17
+	Ohio State	November 20, 1971	Ann Arbor, MI	W 10-7
+	Stanford	January 1, 1972	Pasadena, CA	L 12-13

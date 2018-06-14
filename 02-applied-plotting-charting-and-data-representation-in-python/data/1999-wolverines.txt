@@ -1,0 +1,12 @@
+	Notre Dame	September 4, 1999	Ann Arbor, MI	W 26-22
+	Rice	September 11, 1999	Ann Arbor, MI	W 37-3
+	Syracuse	September 18, 1999	Syracuse, NY	W 18-13
+	Wisconsin	September 25, 1999	Madison, WI	W 21-16
+	Purdue	October 2, 1999	Ann Arbor, MI	W 38-12
+	Michigan State	October 9, 1999	East Lansing, Mich.	L 31-34
+	Illinois	October 23, 1999	Ann Arbor, MI	L 29-35
+	Indiana	October 30, 1999	Bloomington, IN	W 34-31
+	Northwestern	November 6, 1999	Ann Arbor, MI	W 37-3
+	Penn State	November 13, 1999	State College, Pa.	W 31-27
+	Ohio State	November 20, 1999	Ann Arbor, MI	W 24-17
+	Alabama	January 1, 2000	Miami, FL	W 35-34

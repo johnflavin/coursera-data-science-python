@@ -1,0 +1,13 @@
+	Washington	August 31, 2002	Ann Arbor, MI	W 31-29
+	Western Michigan	September 7, 2002	Ann Arbor, MI	W 35-12
+	Notre Dame	September 14, 2002	Notre Dame, Ind.	L 23-25
+	Utah	September 21, 2002	Ann Arbor, MI	W 10-7
+	Illinois	September 28, 2002	Champaign, Ill.	W 45-28
+	Penn State	October 12, 2002	Ann Arbor, MI	W 27-24
+	Purdue	October 19, 2002	West Lafayette, IN	W 23-21
+	Iowa	October 26, 2002	Ann Arbor, MI	L 9-34
+	Michigan State	November 2, 2002	Ann Arbor, MI	W 49-3
+	Minnesota	November 9, 2002	Minneapolis, MN	W 41-24
+	Wisconsin	November 16, 2002	Ann Arbor, MI	W 21-14
+	Ohio State	November 23, 2002	Columbus, Ohio	L 9-14
+	Florida	January 1, 2003	Tampa, FL	W 38-30

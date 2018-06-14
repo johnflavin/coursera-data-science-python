@@ -1,0 +1,12 @@
+	Illinois	September 10, 1977	Champaign, IL	W 37-9
+	Duke	September 17, 1977	Ann Arbor, MI	W 21-9
+	Navy	September 24, 1977	Ann Arbor, MI	W 14-7
+	Texas A&M	October 1, 1977	Ann Arbor, MI	W 41-3
+	Michigan State	October 8, 1977	East Lansing, MI	W 24-14
+	Wisconsin	October 15, 1977	Ann Arbor, MI	W 56-0
+	Minnesota	October 22, 1977	Minneapolis, MN	L 0-16
+	Iowa	October 29, 1977	Ann Arbor, MI	W 23-6
+	Northwestern	November 5, 1977	Ann Arbor, MI	W 63-20
+	Purdue	November 12, 1977	West Lafayette, IN	W 40-7
+	Ohio State	November 19, 1977	Ann Arbor, MI	W 14-6
+	Washington	January 2, 1978	Pasadena, CA	L 20-27

@@ -1,0 +1,9 @@
+	Michigan State	September 29, 1951	Ann Arbor, MI	L 0-25
+	Stanford	October 6, 1951	Ann Arbor, MI	L 13-23
+	Indiana	October 13, 1951	Ann Arbor, MI	W 33-14
+	Iowa	October 20, 1951	Iowa City, IA	W 21-0
+	Minnesota	October 27, 1951	Ann Arbor, MI	W 54-27
+	Illinois	November 3, 1951	Champaign, Ill.	L 0-7
+	Cornell	November 10, 1951		L 7-20
+	Northwestern	November 17, 1951	Ann Arbor, MI	L 0-6
+	Ohio State	November 24, 1951

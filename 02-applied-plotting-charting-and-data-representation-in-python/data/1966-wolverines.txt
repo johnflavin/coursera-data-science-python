@@ -1,0 +1,10 @@
+	Oregon State	September 17, 1966	Ann Arbor, MI	W 41-0
+	California	September 24, 1966		W 17-7
+	North Carolina	October 1, 1966	Ann Arbor, MI	L 7-21
+	Michigan State	October 8, 1966	East Lansing, MI	L 7-20
+	Purdue	October 15, 1966	Ann Arbor, MI	L 21-22
+	Minnesota	October 22, 1966	Ann Arbor, MI	W 49-0
+	Wisconsin	October 29, 1966	Madison, WI	W 28-17
+	Illinois	November 5, 1966	Ann Arbor, MI	L 21-28
+	Northwestern	November 12, 1966	Ann Arbor, MI	W 28-20
+	Ohio State	November 19, 1966	Columbus, Ohio	W 17-3

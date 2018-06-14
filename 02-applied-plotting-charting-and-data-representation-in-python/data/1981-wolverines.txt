@@ -1,0 +1,12 @@
+	Wisconsin	September 12, 1981	Madison, WI	L 14-21
+	Notre Dame	September 19, 1981	Ann Arbor, MI	W 25-7
+	Navy	September 26, 1981	Ann Arbor, MI	W 21-16
+	Indiana	October 3, 1981	Bloomington, IN	W 38-17
+	Michigan State	October 10, 1981	East Lansing, MI	W 38-20
+	Iowa	October 17, 1981	Ann Arbor, MI	L 7-9
+	Northwestern	October 24, 1981	Ann Arbor, MI	W 38-0
+	Minnesota	October 31, 1981	Minneapolis, MN	W 34-13
+	Illinois	November 7, 1981	Ann Arbor, MI	W 70-21
+	Purdue	November 14, 1981	West Lafayette, IN	W 28-10
+	Ohio State	November 21, 1981	Ann Arbor, MI	L 9-14
+	UCLA	December 31, 1981	Houston, TX	W 33-14

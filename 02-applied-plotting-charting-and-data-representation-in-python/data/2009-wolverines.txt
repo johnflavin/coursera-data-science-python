@@ -1,0 +1,12 @@
+	Western Michigan	September 4, 2009	Ann Arbor, MI	W 31-7
+	Notre Dame	September 12, 2009	Ann Arbor, MI	W 38-34
+	Eastern Michigan	September 19, 2009	Ann Arbor, MI	W 45-17
+	Indiana	September 26, 2009	Ann Arbor, MI	W 36-33
+	Michigan State	October 3, 2009	East Lansing, Mich.	L 20-26
+	Iowa Hawkeyes	October 10, 2009	Iowa City, IA	L 28-30
+	Delaware State	October 17, 2009	Ann Arbor, MI	W 63-6
+	Penn State	October 24, 2009	Ann Arbor, MI	L 10-35
+	Illinois	October 31, 2009	Champaign, Ill.	L 13-38
+	Purdue	November 7, 2009	Ann Arbor, MI	L 36-38
+	Wisconsin	November 14, 2009	Madison, Wisconsin	L 24-45
+	Ohio State	November 21, 2009	Ann Arbor, MI	L 10-21

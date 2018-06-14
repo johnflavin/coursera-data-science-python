@@ -1,0 +1,10 @@
+	Duke	September 23, 1967	Ann Arbor, MI	W 10-7
+	California	September 30, 1967	Berkeley, CA	L 9-10
+	Navy	October 7, 1967	Ann Arbor, MI	L 21-26
+	Michigan State	October 14, 1967	Ann Arbor, MI	L 0-34
+	Indiana	October 21, 1967	Ann Arbor, MI	L 20-27
+	Minnesota	October 28, 1967	Minneapolis, MN	L 15-20
+	Northwestern	November 4, 1967	Ann Arbor, MI	W 7-3
+	Illinois	November 11, 1967	Champaign, IL	W 21-14
+	Wisconsin	November 18, 1967	Madison, WI	W 27-14
+	Ohio State	November 25, 1967	Ann Arbor, MI	L 14-24

@@ -1,0 +1,9 @@
+	Michigan State	September 24, 1949	Ann Arbor, MI	W 7-3
+	Stanford	October 1, 1949	Stanford, CA	W 27-7
+	Army	October 8, 1949	Ann Arbor, MI	L 7-21
+	Northwestern	October 15, 1949	Evanston, Il.	L 20-21
+	Minnesota	October 22, 1949	Ann Arbor, MI	W 14-7
+	Illinois	October 29, 1949	Champaign, IL	W 13-0
+	Purdue	November 5, 1949	Ann Arbor, MI	W 20-12
+	Indiana	November 12, 1949	Ann Arbor, MI	W 20-7
+	Ohio State	November 19, 1949	Ann Arbor, MI	T 7-7

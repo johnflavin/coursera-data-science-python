@@ -1,0 +1,12 @@
+	Northwestern	September 8, 1979	Ann Arbor, MI	W 49-7
+	Notre Dame	September 15, 1979	Ann Arbor, MI	L 10-12
+	Kansas	September 22, 1979	Ann Arbor, MI	W 28-7
+	California	September 29, 1979	Berkeley, CA	W 14-10
+	Michigan State	October 6, 1979	East Lansing, MI	W 21-7
+	Minnesota	October 13, 1979	Ann Arbor, MI	W 31-21
+	Illinois	October 20, 1979	Champaign, IL	W 27-7
+	Indiana	October 27, 1979	Ann Arbor, MI	W 27-21
+	Wisconsin	November 3, 1979	Ann Arbor, MI	W 54-0
+	Purdue	November 10, 1979	West Lafayette, IN	L 21-24
+	Ohio State	November 17, 1979	Ann Arbor, MI	L 15-18
+	North Carolina	December 28, 1979	Jacksonville, FL	L 15-17

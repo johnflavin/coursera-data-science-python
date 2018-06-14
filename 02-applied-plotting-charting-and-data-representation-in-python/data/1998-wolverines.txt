@@ -1,0 +1,13 @@
+	Notre Dame	September 5, 1998	South Bend, Ind.	L 20-36
+	Syracuse	September 12, 1998	Ann Arbor, MI	L 28-38
+	Eastern Michigan	September 19, 1998	Ann Arbor, MI	W 59-20
+	Michigan State	September 26, 1998	Ann Arbor, MI	W 29-17
+	Iowa	October 3, 1998	Iowa City, IA	W 12-9
+	Northwestern	October 17, 1998	Evanston,Il	W 12-6
+	Indiana	October 24, 1998	Ann Arbor, MI	W 21-10
+	Minnesota	October 31, 1998	Minneapolis, MN	W 15-10
+	Penn State	November 7, 1998	Ann Arbor, MI	W 27-0
+	Wisconsin	November 14, 1998	Ann Arbor, MI	W 27-10
+	Ohio State	November 21, 1998	Columbus, Ohio	L 16-31
+	Hawaii	November 28, 1998	Honolulu, HI	W 48-17
+	Arkansas	January 1, 1999	Orlando, FL	W 45-31

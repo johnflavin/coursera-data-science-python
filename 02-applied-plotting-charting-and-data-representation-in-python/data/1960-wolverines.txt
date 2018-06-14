@@ -1,0 +1,9 @@
+	Oregon	September 24, 1960	Ann Arbor, MI	W 21-0
+	Michigan State	October 1, 1960	East Lansing, MI	L 17-24
+	Duke	October 8, 1960	Ann Arbor, MI	W 31-6
+	Northwestern	October 15, 1960	Ann Arbor, MI	W 14-7
+	Minnesota	October 22, 1960	Ann Arbor, MI	L 0-10
+	Wisconsin	October 29, 1960	Madison, WI	L 13-16
+	Illinois	November 5, 1960	Ann Arbor, MI	W 8-7
+	Indiana	November 12, 1960	Ann Arbor, MI	W 29-7
+	Ohio State	November 19, 1960	Columbus, Ohio	L 0-7

@@ -1,0 +1,13 @@
+	Connecticut	September 4, 2010	Ann Arbor, MI	W 30-10
+	Notre Dame	September 11, 2010	Notre Dame, Ind.	W 28-24
+	Massachusetts	September 18, 2010	Ann Arbor, MI	W 42-37
+	Bowling Green	September 25, 2010	Ann Arbor, MI	W 65-21
+	Indiana	October 2, 2010	Bloomington, Ind.	W 42-35
+	Michigan State	October 9, 2010	Ann Arbor, MI	L 17-34
+	IOWA	October 16, 2010	Ann Arbor, MI	L 28-38
+	Penn State	October 30, 2010	University Park, Pa.	L 31-41
+	Illinois	November 6, 2010	Ann Arbor, MI	W 67-65
+	Purdue	November 13, 2010	West Lafayette, Ind.	W 27-16
+	Wisconsin	November 20, 2010	Ann Arbor, MI	L 28-48
+	Ohio State	November 27, 2010	Columbus, Ohio	L 7-37
+	Miss State	January 1, 2011	Jacksonville, FL	L 14-52

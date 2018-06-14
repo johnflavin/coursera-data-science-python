@@ -1,0 +1,12 @@
+	Utah	August 30, 2008	Ann Arbor, MI	L 23-25
+	Miami (Ohio)	September 6, 2008	Ann Arbor, MI	W 16-6
+	Notre Dame	September 13, 2008	Notre Dame, Ind.	L 17-35
+	Wisconsin	September 27, 2008	Ann Arbor, MI	W 27-25
+	Illinois	October 4, 2008	Ann Arbor, MI	L 20-45
+	Toledo	October 11, 2008	Ann Arbor, MI	L 10-13
+	Penn State	October 18, 2008	State College, Pa.	L 17-46
+	Michigan State	October 25, 2008	Ann Arbor, MI	L 21-35
+	Purdue	November 1, 2008	West Lafayette, Ind.	L 42-48
+	Minnesota	November 8, 2008	Minneapolis, Minn.	W 29-6
+	Northwestern	November 15, 2008	Ann Arbor, MI	L 14-21
+	Ohio State	November 22, 2008	Columbus, Ohio	L 7-42

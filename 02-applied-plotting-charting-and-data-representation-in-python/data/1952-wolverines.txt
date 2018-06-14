@@ -1,0 +1,9 @@
+	Michigan State	September 27, 1952	Ann Arbor, MI	L 13-27
+	Stanford	October 4, 1952	Stanford, CA	L 7-14
+	Indiana	October 11, 1952	Ann Arbor, MI	W 28-13
+	Northwestern	October 18, 1952	Evanston, Il.	W 48-14
+	Minnesota	October 25, 1952	Ann Arbor, MI	W 21-0
+	Illinois	November 1, 1952	Ann Arbor, MI	L 13-22
+	Cornell	November 8, 1952	Ann Arbor, MI	W 49-7
+	Purdue	November 15, 1952	Ann Arbor, MI	W 21-10
+	Ohio State	November 22, 1952	Columbus, Ohio	L 7-27

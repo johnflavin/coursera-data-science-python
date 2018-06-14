@@ -1,0 +1,12 @@
+	Northern Illinois	September 3, 2005	Ann Arbor, MI	W 33-17
+	Notre Dame	September 10, 2005	Ann Arbor, MI	L 10-17
+	Eastern Michigan	September 17, 2005	Ann Arbor, MI	W 55-0
+	Wisconsin	September 24, 2005	Madison, Wisconsin	L 20-23
+	Michigan State	October 1, 2005	East Lansing,MI	W 34-31
+	Minnesota	October 8, 2005	Ann Arbor, MI	L 20-23
+	Penn State	October 15, 2005	Ann Arbor, MI	W 27-25
+	Iowa	October 22, 2005	Iowa City, IA	W 23-20
+	Northwestern	October 29, 2005	Evanston, Ill.	W 33-17
+	Indiana	November 12, 2005	Ann Arbor, MI	W 41-14
+	Ohio State	November 19, 2005	Ann arbor, MI	L 21-25
+	Nebraska	December 28, 2005	San Antonio, TX	L 28-32

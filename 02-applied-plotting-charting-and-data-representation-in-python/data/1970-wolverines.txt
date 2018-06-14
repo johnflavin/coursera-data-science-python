@@ -1,0 +1,10 @@
+	Arizona	September 19, 1970	Ann Arbor, MI	W 20-9
+	Washington	September 26, 1970	Seattle, WA	W 17-3
+	Texas A&M	October 3, 1970	Ann Arbor, MI	W 14-10
+	Purdue	October 10, 1970	West Lafayette, IN	W 29-0
+	Michigan State	October 17, 1970	Ann Arbor, MI	W 34-20
+	Minnesota	October 24, 1970	Ann Arbor, MI	W 39-13
+	Wisconsin	October 31, 1970	Madison, WI	W 29-15
+	Illinois	November 7, 1970	Ann Arbor, MI	W 42-0
+	Iowa	November 14, 1970	Ann Arbor, MI	W 55-0
+	Ohio State	November 21, 1970	Columbus, OH	L 9-20

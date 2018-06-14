@@ -1,0 +1,10 @@
+	Air Force	September 26, 1964	Ann Arbor, MI	W 24-7
+	Navy	October 3, 1964	Ann Arbor, MI	W 21-0
+	Michigan State	October 10, 1964	East Lansing, MI	W 17-10
+	Purdue	October 17, 1964	Ann Arbor, MI	L 20-21
+	Minnesota	October 24, 1964	Ann Arbor, MI	W 19-12
+	Northwestern	October 31, 1964	Ann Arbor, MI	W 35-0
+	Illinois	November 7, 1964	Ann Arbor, MI	W 21-6
+	Iowa	November 14, 1964	Iowa City, IA	W 34-20
+	Ohio State	November 21, 1964	Columbus, Ohio	W 10-0
+	Oregon State	January 1, 1965	Pasedena, CA	W 34-7

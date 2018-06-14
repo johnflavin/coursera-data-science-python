@@ -1,0 +1,9 @@
+	Nebraska	September 29, 1962	Ann Arbor, MI	L 13-25
+	Army	October 6, 1962	Ann Arbor, MI	W 17-7
+	Michigan State	October 13, 1962	East Lansing, MI	L 0-28
+	Purdue	October 20, 1962	West Lafayette, IN	L 0-37
+	Minnesota	October 27, 1962	Ann Arbor, MI	L 0-17
+	Wisconsin	November 3, 1962	Ann Arbor, MI	L 12-34
+	Illinois	November 10, 1962	Ann Arbor, MI	W 14-10
+	Iowa	November 17, 1962	Iowa City, IA	L 14-28
+	Ohio State	November 24, 1962	Columbus, Ohio	L 0-28

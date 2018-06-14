@@ -1,0 +1,13 @@
+	Hawaii	September 3, 2016	Ann Arbor, MI	W 63-3
+	UCF	September 10, 2016	Ann Arbor, MI	W 51-14
+	Colorado	September 17, 2016	Ann Arbor, MI	W 45-28
+	Penn State	September 24, 2016	Ann Arbor, MI	W 49-10
+	Wisconsin	October 1, 2016	Ann Arbor, MI	W 14-7
+	Rutgers	October 8, 2016	Piscataway, N.J.	W 78-0
+	Illinois	October 22, 2016	Ann Arbor, MI	W 41-8
+	Michigan State	October 29, 2016	East Lansing, Mich.	W 32-23
+	Maryland	November 5, 2016	Ann Arbor, MI	W 59-3
+	Iowa	November 12, 2016	Iowa City, Iowa	L 13-14
+	Indiana	November 19, 2016	Ann Arbor, MI	W 20-10
+	Ohio State	November 26, 2016	Columbus, Ohio	L 27-30
+	Florida State	December 30, 2016	Miami Gardens, Fla.	L 32-33

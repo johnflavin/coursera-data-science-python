@@ -1,0 +1,12 @@
+	Bowling Green	September 2, 2000	Ann Arbor, MI	W 42-7
+	Rice	September 9, 2000	Ann Arbor, MI	W 38-7
+	UCLA	September 16, 2000	Pasadena, CA	L 20-23
+	Illinois	September 23, 2000	Champaign, Ill.	W 35-31
+	Wisconsin	September 30, 2000	Ann Arbor, MI	W 13-10
+	Purdue	October 7, 2000	West Lafayette, IN	L 31-32
+	Indiana	October 14, 2000	Ann Arbor, MI	W 58-0
+	Michigan State	October 21, 2000	Ann Arbor, MI	W 14-0
+	Northwestern	November 4, 2000	Evanston, Il.	L 51-54
+	Penn State	November 11, 2000	Ann Arbor, MI	W 33-11
+	Ohio State	November 18, 2000	Columbus, Ohio	W 38-26
+	Auburn	January 1, 2001	Orlando, FL	W 31-28

@@ -1,0 +1,13 @@
+	UTAH	September 3, 2015	Salt Lake City, Utah	L 17-24
+	Oregon State	September 12, 2015	Ann Arbor, MI	W 35-7
+	UNLV	September 19, 2015	Ann Arbor, MI	W 28-7
+	Brigham Young	September 26, 2015	Ann Arbor, MI	W 31-0
+	Maryland	October 3, 2015	College Park, Md.	W 28-0
+	Northwestern	October 10, 2015	Ann Arbor, MI	W 38-0
+	Michigan State	October 17, 2015	Ann Arbor, MI	L 23-27
+	Minnesota	October 31, 2015	Minneapolis, Minn.	W 29-26
+	Rutgers	November 7, 2015	Ann Arbor, MI	W 49-16
+	Indiana	November 14, 2015	Bloomington, Ind.	W 48-41
+	Penn State	November 21, 2015	University Park, Pa.	W 28-16
+	Ohio State	November 28, 2015	Ann Arbor, MI	L 13-42
+	Florida	January 1, 2016	Orlando, FL	W 41-7

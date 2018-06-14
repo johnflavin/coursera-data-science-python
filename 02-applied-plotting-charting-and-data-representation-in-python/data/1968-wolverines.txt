@@ -1,0 +1,10 @@
+	California	September 21, 1968	Ann Arbor, MI	L 7-21
+	Duke	September 28, 1968	Durham, NC	W 31-10
+	Navy	October 5, 1968	Ann Arbor, MI	W 32-9
+	Michigan State	October 12, 1968	Ann Arbor, MI	W 28-14
+	Indiana	October 19, 1968	Bloomington, IN	W 27-22
+	Minnesota	October 26, 1968	Ann Arbor, MI	W 33-20
+	Northwestern	November 2, 1968	Evanston, IL	W 35-0
+	Illinois	November 9, 1968	Ann Arbor, MI	W 36-0
+	Wisconsin	November 16, 1968	Ann Arbor, MI	W 34-9
+	Ohio State	November 23, 1968	Columbus, OH	L 14-50

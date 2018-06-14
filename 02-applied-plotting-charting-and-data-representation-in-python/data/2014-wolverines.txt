@@ -1,0 +1,12 @@
+	Appalachian State	August 30, 2014	Ann Arbor, MI	W 52-14
+	Notre Dame	September 6, 2014	Notre Dame, Ind.	L 0-31
+	Miami (Ohio)	September 13, 2014	Ann Arbor, MI	W 34-10
+	Utah	September 20, 2014	Ann Arbor, MI	L 10-26
+	Minnesota	September 27, 2014	Ann Arbor, MI	L 14-30
+	Rutgers	October 4, 2014	Piscataway, N.J.	L 24-26
+	Penn State	October 11, 2014	Ann Arbor, MI	W 18-13
+	Michigan State	October 25, 2014	East Lansing, Mich.	L 11-35
+	Indiana	November 1, 2014	Ann Arbor, MI	W 34-10
+	Northwestern	November 8, 2014	Evanston, Ill.	W 10-9
+	Maryland	November 22, 2014	Ann Arbor, MI	L 16-23
+	Ohio State	November 29, 2014	Columbus, Ohio	L 28-42

@@ -1,0 +1,11 @@
+	Iowa	September 15, 1973	Iowa City, IA	W 31-7
+	Stanford	September 22, 1973	Ann Arbor, MI	W 47-10
+	Navy	September 29, 1973	Ann Arbor, MI	W 14-0
+	Oregon	October 6, 1973	Ann Arbor, MI	W 24-0
+	Michigan State	October 13, 1973	East Lansing, MI	W 31-0
+	Wisconsin	October 20, 1973	Ann Arbor, MI	W 35-6
+	Minnesota	October 27, 1973	Minneapolis, MN	W 34-7
+	Indiana	November 3, 1973	Ann Arbor, MI	W 49-13
+	Illinois	November 10, 1973	Ann Arbor, MI	W 21-6
+	Purdue	November 17, 1973	West Lafayette, IN	W 34-9
+	Ohio State	November 24, 1973	Ann Arbor, MI	T 10-10

@@ -1,0 +1,11 @@
+	Northwestern	September 16, 1972	Ann Arbor, MI	W 7-0
+	UCLA	September 23, 1972	Los Angeles, CA	W 26-9
+	Tulane	September 30, 1972	Ann Arbor, MI	W 41-7
+	Navy	October 7, 1972	Ann Arbor, MI	W 35-7
+	Michigan State	October 14, 1972	Ann Arbor, MI	W 10-0
+	Illinois	October 21, 1972	Champaign, IL	W 31-7
+	Minnesota	October 28, 1972	Ann Arbor, MI	W 42-0
+	Indiana	November 4, 1972	Bloomington, IN	W 21-7
+	Iowa	November 11, 1972	Iowa City, IA	W 31-0
+	Purdue	November 18, 1972	Ann Arbor, MI	W 9-6
+	Ohio State	November 25, 1972	Columbus, OH	L 11-14

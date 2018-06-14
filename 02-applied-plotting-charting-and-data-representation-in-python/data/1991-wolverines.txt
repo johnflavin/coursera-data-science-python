@@ -1,0 +1,12 @@
+	Boston College	September 7, 1991	Chestnut Hill, MA	W 35-13
+	Notre Dame	September 14, 1991	Ann Arbor, MI	W 24-14
+	Florida State	September 28, 1991	Ann Arbor, MI	L 31-51
+	Iowa	October 5, 1991	Iowa City, IA	W 43-24
+	Michigan State	October 12, 1991	East Lansing, MI	W 45-28
+	Indiana	October 19, 1991	Ann Arbor, MI	W 24-16
+	Minnesota	October 25, 1991	Minneapolis, MN	W 52-6
+	Purdue	November 2, 1991	Ann Arbor, MI	W 42-0
+	Northwestern	November 9, 1991	Ann Arbor, MI	W 59-14
+	Illinois	November 16, 1991	Champaign, IL	W 20-0
+	Ohio State	November 23, 1991	Ann Arbor, MI	W 31-3
+	Washington	January 1, 1992	Pasadena, CA	L 14-34

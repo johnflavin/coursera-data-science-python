@@ -1,0 +1,13 @@
+	Western Michigan	September 3, 2011	Ann Arbor, MI	W 34-10
+	Notre Dame	September 10, 2011	Ann Arbor, MI	W 35-31
+	Eastern Michigan	September 17, 2011	Ann Arbor, MI	W 31-3
+	San Diego State	September 24, 2011	Ann Arbor, MI	W 28-7
+	Minnesota	October 1, 2011	Ann Arbor, MI	W 58-0
+	Northwestern	October 8, 2011	Evanston, Ill.	W 42-24
+	Michigan State	October 15, 2011	East Lansing, Mich.	L 14-28
+	Purdue	October 29, 2011	Ann Arbor, MI	W 36-14
+	Iowa	November 5, 2011	Iowa City, IA	L 16-24
+	Illinois	November 12, 2011	Champaign, Ill.	W 31-14
+	Nebraska	November 19, 2011	Ann Arbor, MI	W 45-17
+	Ohio State	November 26, 2011	Ann Arbor, MI	W 40-34
+	Virginia Tech	January 3, 2012	New Orleans, La.	W 23-20

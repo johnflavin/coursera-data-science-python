@@ -1,0 +1,12 @@
+	Northwestern	September 13, 1980	Ann Arbor, MI	W 17-10
+	Notre Dame	September 20, 1980	South Bend, IN	L 27-29
+	South Carolina	September 27, 1980	Ann Arbor, MI	L 14-17
+	California	October 4, 1980	Ann Arbor, MI	W 38-13
+	Michigan State	October 11, 1980	Ann Arbor, MI	W 27-23
+	Minnesota	October 18, 1980	Minneapolis, MN	W 37-14
+	Illinois	October 25, 1980	Ann Arbor, MI	W 45-14
+	Indiana	November 1, 1980	Bloomington, IN	W 35-0
+	Wisconsin	November 8, 1980	Madison, WI	W 24-0
+	Purdue	November 15, 1980	Ann Arbor, MI	W 26-0
+	Ohio State	November 22, 1980	Columbus, OH	W 9-3
+	Washington	January 1, 1981	Pasadena, CA	W 23-6

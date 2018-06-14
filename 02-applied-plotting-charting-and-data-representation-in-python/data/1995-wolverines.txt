@@ -1,0 +1,13 @@
+	Virginia	August 26, 1995	Ann Arbor, MI	W 18-17
+	Illinois	September 2, 1995	Champaign, IL	W 38-14
+	Memphis	September 9, 1995	Ann Arbor, MI	W 24-7
+	Boston College	September 16, 1995	Chestnut Hill, MA	W 23-13
+	Miami (Ohio)	September 30, 1995	Ann Arbor, MI	W 38-19
+	Northwestern	October 7, 1995	Ann Arbor, MI	L 13-19
+	Indiana	October 21, 1995	Bloomington, IN	W 34-17
+	Minnesota	October 28, 1995	Ann Arbor, MI	W 52-17
+	Michigan State	November 4, 1995	East Lansing, MI	L 25-28
+	Purdue	November 11, 1995	Ann Arbor, MI	W 5-0
+	Penn State	November 18, 1995	College Park, PA	L 17-27
+	Ohio State	November 25, 1995	Ann Arbor, MI	W 31-23
+	Texas A&M	December 28, 1995	San Antonio, TX	L 20-22

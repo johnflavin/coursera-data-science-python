@@ -1,0 +1,13 @@
+	Notre Dame	September 13, 1986	South Bend, IN	W 24-23
+	Oregon State	September 20, 1986	Ann Arbor, MI	W 31-12
+	Florida State	September 27, 1986	Ann Arbor, MI	W 20-18
+	Wisconsin	October 4, 1986	Ann Arbor, MI	W 34-17
+	Michigan State	October 11, 1986	Ann Arbor, MI	W 27-6
+	Iowa	October 18, 1986	Ann Arbor, MI	W 20-17
+	Indiana	October 25, 1986	Bloomington, IN	W 38-14
+	Illinois	November 1, 1986	Ann Arbor, MI	W 69-13
+	Purdue	November 8, 1986	West Lafayette, IN	W 31-7
+	Minnesota	November 15, 1986	Ann Arbor, MI	L 17-20
+	Ohio State	November 22, 1986	Columbus, OH	W 26-24
+	Hawaii	December 6, 1986	Honolulu, HI	W 27-10
+	Arizona State	January 1, 1987	Pasadena, CA	L 15-22

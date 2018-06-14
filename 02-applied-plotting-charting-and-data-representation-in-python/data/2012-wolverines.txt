@@ -1,0 +1,13 @@
+	UA	September 1, 2012	Arlington, Texas	L 14-41
+	Air Force	September 8, 2012	Ann Arbor, MI	W 31-25
+	Massachusetts	September 15, 2012	Ann Arbor, MI	W 63-13
+	Notre Dame	September 22, 2012	Notre Dame, Ind.	L 6-13
+	Purdue	October 6, 2012	West Lafayette, Ind.	W 44-13
+	Illinois	October 13, 2012	Ann Arbor, MI	W 45-0
+	Michigan State	October 20, 2012	Ann Arbor, MI	W 12-10
+	Nebraska	October 27, 2012	Lincoln, Neb.	L 9-23
+	Minnesota	November 3, 2012	Minneapolis, Minn.	W 35-13
+	Northwestern	November 10, 2012	Ann Arbor, MI	W 38-31
+	Iowa	November 17, 2012	Ann Arbor, MI	W 42-17
+	Ohio State	November 24, 2012	Columbus, Ohio	L 21-26
+	South Carolina	January 1, 2013	Tampa, Fla.	L 28-33

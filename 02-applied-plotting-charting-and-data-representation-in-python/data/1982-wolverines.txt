@@ -1,0 +1,12 @@
+	Wisconsin	September 11, 1982	Ann Arbor, MI	W 20-9
+	Notre Dame	September 18, 1982	South Bend, IN	L 17-23
+	UCLA	September 25, 1982	Ann Arbor, MI	L 27-31
+	Indiana	October 2, 1982	Ann Arbor, MI	W 24-10
+	Michigan State	October 9, 1982	Ann Arbor, MI	W 31-17
+	Iowa	October 16, 1982	Iowa City, IA	W 29-7
+	Northwestern	October 23, 1982	Evanston, IL	W 49-14
+	Minnesota	October 30, 1982	Ann Arbor, MI	W 52-14
+	Illinois	November 6, 1982	Champaign, IL	W 16-10
+	Purdue	November 13, 1982	Ann Arbor, MI	W 52-21
+	Ohio State	November 20, 1982	Columbus, OH	L 14-24
+	UCLA	January 1, 1983	Pasadena, CA	L 14-24

@@ -1,0 +1,13 @@
+	Central Michigan	August 31, 2013	Ann Arbor, MI	W 59-9
+	Notre Dame	September 7, 2013	Ann Arbor, MI	W 41-30
+	Akron	September 14, 2013	Ann Arbor, MI	W 28-24
+	UConn	September 21, 2013	East Hartford, Conn.	W 24-21
+	Minnesota	October 5, 2013	Ann Arbor, MI	W 42-13
+	Penn State	October 12, 2013	University Park, Pa.	L 40-43
+	Indiana	October 19, 2013	Ann Arbor, MI	W 63-47
+	Michigan State	November 2, 2013	East Lansing, Mich.	L 6-29
+	Nebraska	November 9, 2013	Ann Arbor, MI	L 13-17
+	Northwestern	November 16, 2013	Evanston, Ill.	W 27-19
+	Iowa Hawkeyes	November 23, 2013	Iowa City, Iowa	L 21-24
+	Ohio State	November 30, 2013	Ann Arbor, MI	L 41-42
+	Kansas State	December 28, 2013	Tempe, Ariz	L 14-31

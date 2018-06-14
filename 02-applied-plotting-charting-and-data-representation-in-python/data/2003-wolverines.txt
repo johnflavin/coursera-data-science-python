@@ -1,0 +1,13 @@
+	Central Michigan	August 30, 2003	Ann Arbor, MI	W 45-7
+	Houston	September 6, 2003	Ann Arbor, MI	W 50-3
+	Notre Dame	September 13, 2003	Ann Arbor, MI	W 38-0
+	Oregon	September 20, 2003	Eugene, Ore.	L 27-31
+	Indiana	September 27, 2003	Ann Arbor, MI	W 31-17
+	Iowa	October 4, 2003	Iowa City, IA	L 27-30
+	Minnesota	October 10, 2003	Minneapolis	W 38-35
+	Illinois	October 18, 2003	Ann Arbor, MI	W 56-14
+	Purdue	October 25, 2003	Ann Arbor, MI	W 31-3
+	Michigan State	November 1, 2003	East Lansing, Mich.	W 27-20
+	Northwestern	November 15, 2003	Evanston, Ill.	W 41-10
+	Ohio State	November 22, 2003	Ann Arbor, MI	W 35-21
+	Southern California	January 1, 2004	Pasadena, Calif.	L 14-28

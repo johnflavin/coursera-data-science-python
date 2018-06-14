@@ -1,0 +1,12 @@
+	Boston College	September 3, 1994	Ann Arbor, MI	W 34-26
+	Notre Dame	September 10, 1994	South Bend, IN	W 26-24
+	Colorado	September 24, 1994	Ann Arbor, MI	L 26-27
+	Iowa	October 1, 1994	Iowa City, IA	W 29-14
+	Michigan State	October 8, 1994	Ann Arbor, MI	W 40-20
+	Penn State	October 15, 1994	Ann Arbor, MI	L 24-31
+	Illinois	October 22, 1994	Champaign, IL	W 19-14
+	Wisconsin	October 29, 1994	Ann Arbor, MI	L 19-31
+	Purdue	November 5, 1994	West Lafayette, IN	W 45-23
+	Minnesota	November 12, 1994	Ann Arbor, MI	W 38-22
+	Ohio State	November 19, 1994	Columbus, OH	L 6-22
+	Colorado State	December 30, 1994	San Diego, CA	W 24-14

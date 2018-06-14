@@ -1,0 +1,12 @@
+	Wisconsin	September 13, 1975	Madison, WI	W 23-6
+	Stanford	September 20, 1975	Ann Arbor, MI	T 19-19
+	Baylor	September 27, 1975	Ann Arbor, MI	T 14-14
+	Missouri	October 4, 1975	Ann Arbor, MI	W 31-7
+	Michigan State	October 11, 1975	East Lansing, MI	W 16-6
+	Northwestern	October 18, 1975	Ann Arbor, MI	W 69-0
+	Indiana	October 25, 1975	Ann Arbor, MI	W 55-7
+	Minnesota	November 1, 1975	Minneapolis, MN	W 28-21
+	Purdue	November 8, 1975	Ann Arbor, MI	W 28-0
+	Illinois	November 15, 1975	Champaign, IL	W 21-15
+	Ohio State	November 22, 1975	Ann Arbor, MI	L 14-21
+	Oklahoma	January 1, 1976	Miami, FL	L 6-14

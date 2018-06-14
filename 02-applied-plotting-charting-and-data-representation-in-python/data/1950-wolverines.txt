@@ -1,0 +1,10 @@
+	Michigan State	September 30, 1950	Ann Arbor, MI	L 7-14
+	Dartmouth	October 7, 1950	Ann Arbor, MI	W 27-7
+	Army	October 14, 1950	New York, NY	L 6-27
+	Wisconsin	October 21, 1950	Ann Arbor, MI	W 26-13
+	Minnesota	October 28, 1950	Minneapolis, MN	T 7-7
+	Illinois	November 4, 1950	Ann Arbor, MI	L 0-7
+	Indiana	November 11, 1950	Ann Arbor, MI	W 20-7
+	Northwestern	November 18, 1950	Ann Arbor, MI	W 34-23
+	Ohio State	November 25, 1950	Columbus, Ohio	W 9-3
+	California	January 1, 1951	Pasedena, CA	W 14-6
