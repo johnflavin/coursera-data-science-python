@@ -22,3 +22,11 @@ The figure was made from normally-distributed random data. For several sets of t
 ![Assignment 3. Selected value = 40000](assignment3.png)
 
 As I have described thus far, this plot would have been sufficient for what the assignment calls the "Harder Option". But my code fulfills the "Even Harder Option", which enables interactivity. In a live Jupyter environment, the user can click on the plot to update the currently selected value, which redraws the selected line and recolors all the bars according to the formula.
+
+## Assignment 4
+
+This assignment was to find at least two overlapping data sets, and create a plot to show a relationship between them, on the topic of **sports** in the location **Ann Arbor, MI**.
+
+I chose to find data on all the Michigan Wolverines football games and the weather at the time and location of each game. I plotted the precipitation intensity vs. the point differential. I found no significant relationship.
+
+![Assignment 4.](assignment4.png)
