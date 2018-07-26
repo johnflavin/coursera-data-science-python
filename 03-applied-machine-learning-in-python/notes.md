@@ -47,3 +47,61 @@ KNN algorithm needs
 2. A value for k
 3. Potentially a weighting for different neighbors
 4. A way to combine the k labels, like voting
+
+## Supervised Machine Learning
+
+### Naïve Bayes
+
+"Naïve" in the sense that they make the simplying assumption that all features are independent.
+
+SKLearn has three flavors of naïve bayes: Bernoulli (binary features), Multinomial (discrete features), Gaussian (continuous/real-valued features). In this course we cover Gaussian only; in text mining course (part 4 in specialization) they use Bernoulli and Multinomial.
+
+(Note for the SKLearn implementation of gaussian naïve bayes. It supports a "partial_fit" method in addition to "fit", for when data are too large to fit into memory all at once.)
+
+Pros:
+
+* Easy to understand
+* Simple, efficient parameter estimation
+* Works well with high-dimensional data
+* Often used as a baseline comparison against more sophisticated methods
+
+Cons:
+
+* Assumption that features are conditionally independent given the class is not realistic
+* As a result, other classifier types often have better generalization performance
+* Confidence estimates for predictions are not very accurate
+
+### Random Forests
+
+An example of an "ensemble model". Combine multiple models into one, which is more accurate than consitiuent models. Average out overfitting to different parts of input data in different models.
+
+Build a bunch of trees using randomized data splits, and randomized sets of features. The final prediction is the majority vote among trees.
+
+Important SKLearn RandomForestClassifier / RandomForestRegressor params:
+
+* `n_estimator`: controls number of trees
+* `max_features`: controls number of features selected for each tree to fit
+* `max_depth`: depth of each tree
+* `n_jobs`: number of cores for parallel training
+
+Pros:
+
+* Widely used, excellent prediction performance on many problems
+* Doesn't require careful normalization of features or extensive parameter tuning
+* Like decision trees, handles a mixture of feature types
+* Easily parallelized across multiple CPUs
+
+Cons:
+
+* Resulting models are often difficult for humans to interpret
+* Like decision trees, random forests may not be a good choice for very high-dimensional tasks (e.g. text classifiers) compared to fast, accurate linear models
+
+### Gradient Boosted Decision Trees
+
+The "serial" tree ensemble to Random Forests' "parallel" ensemble.
+
+Training builds a series of small decision trees. Each subsequent tree attempts to correct the errors from the previous stage.
+
+"learning rate" controls how "hard" each new tree tries to correct remaining mistakes from previous round ("hard" in terms of complexity of the tree). Lower learning rate means training is slower, but often generalizes better.
+
+Pros and cons similar to random forests.
